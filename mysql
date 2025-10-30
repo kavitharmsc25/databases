@@ -1,1 +1,11 @@
-mysql is a database located in server
+only queries:
+
+create database kavitha_db;
+use kavitha_db;
+create table employees(
+    empid int,
+    empname varchar(50),
+    empage int,
+    dept varchar(50),
+    salary double
+);
