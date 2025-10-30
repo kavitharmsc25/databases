@@ -10,4 +10,4 @@ create table employees(
     salary double
 );
 
-insert into employees values(101, "abi", 23, "velachery, chennai", "developer", 500000);
+insert into employees values(101, "abi", 23, "velachery", "developer", 500000);
