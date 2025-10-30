@@ -9,3 +9,5 @@ create table employees(
     dept varchar(50),
     salary double
 );
+
+insert into employees values(101, "abi", 23, "velachery, chennai", "developer", 500000);
